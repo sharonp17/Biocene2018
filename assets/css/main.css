@@ -215,7 +215,8 @@ ul li, ol li {
   color: #fff;
 }
 .main-img{
-  position:relative;
+  position:static;
+  min-height:600px;
 }
 .sponsor-head{
   padding-bottom:10px;
@@ -225,7 +226,9 @@ ul li, ol li {
   position: relative;
   z-index: 1;
 }
-
+.Biocene-box{
+background: rgba(0, 0, 0, 0.8)
+}
 .btn-common:hover {
   color: #fff;
   background: #F50057;
