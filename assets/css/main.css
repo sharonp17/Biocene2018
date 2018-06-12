@@ -214,7 +214,12 @@ ul li, ol li {
   outline: none;
   color: #fff;
 }
-
+.main-img{
+  position:relative;
+}
+.sponsor-head{
+  padding-bottom:10px;
+}
 .btn-common {
   background-color: #26A098;
   position: relative;
@@ -1114,7 +1119,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 .sponsor{
   padding:4px;
-  max-width:300px;
   margin-bottom: 20px;
   margin-top: 20px;
 }
@@ -2135,6 +2139,9 @@ height: 100%;
   margin-right: 5px;
 }
 
+.pricing-list-size{
+  max-width:290px;
+}
 #main-slide .carousel-control {
   display: none;
   transition: all 0.3s ease-in-out;
