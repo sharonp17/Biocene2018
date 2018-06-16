@@ -215,7 +215,7 @@ ul li, ol li {
   color: #fff;
 }
 .main-img{
-  position:static;
+  position:relative;
   min-height:600px;
 }
 .sponsor-head{
