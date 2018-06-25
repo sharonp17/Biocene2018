@@ -216,7 +216,7 @@ ul li, ol li {
 }
 .main-img{
   position:relative;
-  min-height:600px;
+  height:600px;
 }
 .sponsor-head{
   padding-bottom:10px;
