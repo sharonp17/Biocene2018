@@ -105,6 +105,17 @@ ul li, ol li {
   position: relative;
   margin-bottom: 15px;
 }
+.section-title.schedule {
+  font-size: 36px;
+  color: white;
+  line-height: 52px;
+  padding-bottom: 20px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  margin-bottom: 15px;
+}
 
 .section-title:before {
   position: absolute;
